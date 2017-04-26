@@ -1,0 +1,5 @@
+D:\Projects\VS2017\Appian\PlayingCards\PlayingCards\bin\Debug\PlayingCards.exe.config
+D:\Projects\VS2017\Appian\PlayingCards\PlayingCards\bin\Debug\PlayingCards.exe
+D:\Projects\VS2017\Appian\PlayingCards\PlayingCards\bin\Debug\PlayingCards.pdb
+D:\Projects\VS2017\Appian\PlayingCards\PlayingCards\obj\Debug\PlayingCards.exe
+D:\Projects\VS2017\Appian\PlayingCards\PlayingCards\obj\Debug\PlayingCards.pdb

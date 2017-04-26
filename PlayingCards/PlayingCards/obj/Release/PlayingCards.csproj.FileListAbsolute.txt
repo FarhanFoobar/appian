@@ -1,0 +1,6 @@
+D:\Projects\VS2017\Appian\PlayingCards\PlayingCards\bin\Release\PlayingCards.exe.config
+D:\Projects\VS2017\Appian\PlayingCards\PlayingCards\bin\Release\PlayingCards.exe
+D:\Projects\VS2017\Appian\PlayingCards\PlayingCards\bin\Release\PlayingCards.pdb
+D:\Projects\VS2017\Appian\PlayingCards\PlayingCards\obj\Release\PlayingCards.csprojResolveAssemblyReference.cache
+D:\Projects\VS2017\Appian\PlayingCards\PlayingCards\obj\Release\PlayingCards.exe
+D:\Projects\VS2017\Appian\PlayingCards\PlayingCards\obj\Release\PlayingCards.pdb
